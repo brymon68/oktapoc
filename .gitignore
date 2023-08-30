@@ -1,0 +1,4 @@
+spa/node_modules/
+webserver/__pycache__/
+webserver/venv/
+*.env
